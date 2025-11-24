@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**JoeAndreRoja/JoeAndreRoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Joe Andre Roja**
 
-Here are some ideas to get you started:
+I am a Computer Science Student currently studying at New Era University. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🎓 Education
+
+| Level | Institution |
+|-------|-------------|
+| **College** | New Era University |
+| **High School** | Milestone Innovative Academy Inc. |
+| **Elementary** | Milestone Innovative Academy Inc. |
+
+---
+
+## 🏅 Certifications
+
+- **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/396bb6e418da40f2a54bc95de376992b)** — IBM (2025)
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+</p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+</p>
+
+### **Backend & Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Don't be afraid to fail, Failure is part of Success.</sub>
+</p>
+
