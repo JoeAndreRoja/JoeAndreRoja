@@ -18,6 +18,7 @@ I am a Computer Science Student currently studying at New Era University.
 ## 🏅 Certifications
 
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/396bb6e418da40f2a54bc95de376992b)** — IBM (2025)
+- **[OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D218B1C9998C6D7A3DB33BFC347E42E219650349BBE5F8992BDC11B445856EC2)** — Oracle (2025)
 
 ---
 
