@@ -7,11 +7,9 @@ I am a Computer Science Student currently studying at New Era University.
 
 ## 🧑‍🎓 Education
 
-| Level | Institution |
 |-------|-------------|
-| **College** | New Era University |
-| **High School** | Milestone Innovative Academy Inc. |
-| **Elementary** | Milestone Innovative Academy Inc. |
+| **College** | New Era University - Bachelor of Science in Computer Science (2024 - Present) |
+
 
 ---
 
