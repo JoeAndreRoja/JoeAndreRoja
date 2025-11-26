@@ -7,8 +7,7 @@ I am a Computer Science Student currently studying at New Era University.
 
 ## 🧑‍🎓 Education
 
-|-------|-------------|
-| **College** | New Era University - Bachelor of Science in Computer Science (2024 - Present) |
+| **College** | New Era University - Bachelor of Science in Computer Science (2024 - Present)** |
 
 
 ---
